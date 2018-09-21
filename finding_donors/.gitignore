@@ -1,5 +1,7 @@
 # Mac OS
 .DS_Store
+# Added by myself on Sep 21, 2018 for it happened in my Mac
+../.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
